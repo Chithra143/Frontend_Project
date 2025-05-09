@@ -1,0 +1,6 @@
+.nav-link.active {
+    color: #e23744 !important;  /* Zomato red */
+    font-weight: bold;
+    border-bottom: 2px solid #e23744;
+  }
+  

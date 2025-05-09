@@ -1,0 +1,10 @@
+.login-container {
+    background: linear-gradient(to right, #f12711, #f5af19);
+  }
+  
+  .login-form {
+    background-color: white;
+    width: 100%;
+    max-width: 400px;
+  }
+  
